@@ -7,7 +7,7 @@ import {
   FiMail,
   FiTwitter,
 } from "react-icons/fi";
-import { Button, buttonVariants } from "@/components/Button";
+import { buttonVariants } from "@/components/Button";
 import Scramble from "@/components/Scramble";
 
 export default function MainSection() {
@@ -27,7 +27,7 @@ export default function MainSection() {
         <Scramble/>
       </div>
       <p className="w-full max-w-3xl md:text-lg text-sm tracking-wide text-sky-200 text-opacity-75 animate-fade700">
-        I'm a curious developer and software engineer who loves creating
+        I&apos;m a curious developer and software engineer who loves creating
         accessible, user-focused solutions that truly shine{" "}
         <span className="text-opacity-100 text-white">✨</span> but who also takes cybersecurity seriously. 
         Truely passionated, navigating cutting-edge tech and orchestrating workflows that leave a

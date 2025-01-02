@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Button, buttonVariants } from "@/components/Button";
+import { buttonVariants } from "@/components/Button";
 import { FiLinkedin } from "react-icons/fi";
 import SectionContainer from "@/components/SectionContainer";
 
@@ -12,9 +12,9 @@ export default function ContactSection() {
         </h1>
         <h1 className="md:text-4xl text-xl font-semibold">Share your thoughts !</h1>
         <p className="text-sky-200 text-opacity-75 w-full max-w-xl text-center">
-          I'm always up for new adventures, and my inbox is wide open!
+          I&apos;m always up for new adventures, and my inbox is wide open!
           Got a question or just wanna say hi? Drop me a
-          message, and I'll be sure to get back to you! 🚀
+          message, and I&apos;ll be sure to get back to you! 🚀
         </p>
         <div className="flex flex-row items-center gap-2">
           <Link

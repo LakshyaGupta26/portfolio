@@ -1,4 +1,3 @@
-import SectionContainer from "@/components/SectionContainer";
 
 export default function AboutSection() {
   return (
@@ -25,12 +24,12 @@ export default function AboutSection() {
         I always prioritize learning, with certifications from NPTEL and Udemy, and skills in leadership, 
         critical thinking, and problem-solving, I am committed to delivering impactful solutions that bridge 
         technology and user needs. I actively contribute to the developer community through volunteering and
-        continuous learning. Let's connect to discuss collaboration opportunities in technology-driven 
+        continuous learning. Let&apos;s connect to discuss collaboration opportunities in technology-driven 
         problem-solving.
         </p>
         <p className="w-full text-justify">
           Usally a workaholic but, my hobbies include playing basketball, rewinding to music and everything in-between to promote
-          mental well being. I'm always up for a good conversation and love connecting with
+          mental well being. I&apos;m always up for a good conversation and love connecting with
           people from all walks of life.
         </p>
       </div>

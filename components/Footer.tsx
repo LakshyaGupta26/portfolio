@@ -1,5 +1,3 @@
-import { Copyright } from "lucide-react";
-import { FiCopy } from "react-icons/fi";
 
 export default function Footer() {
   return (
