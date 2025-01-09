@@ -6,7 +6,7 @@ export default function AboutSection() {
         Something about myself...
       </h1>
       <h1 className="md:text-4xl text-xl font-semibold">About</h1>
-      <div className="w-full flex flex-col items-start gap-4 text-sky-200 md:text-base text-xl text-opacity-75 ">
+      <div className="w-full flex flex-col items-start gap-4 text-cyan-100 md:text-base text-sm text-opacity-80 ">
         <p className="w-full text-justify ">
         I am a highly motivated and passionated Computer Science and Engineering student at Amity University, 
         with a strong foundation in software development, artificial intelligence, and data analytics. 

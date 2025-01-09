@@ -26,7 +26,7 @@ export default function MainSection() {
         </h1> */}
         <Scramble/>
       </div>
-      <p className="w-full max-w-3xl md:text-lg text-sm tracking-wide text-sky-200 text-opacity-75 animate-fade700">
+      <p className="w-full max-w-3xl md:text-lg text-sm tracking-wide text-cyan-100 text-opacity-80 animate-fade700">
         I&apos;m a curious developer and software engineer who loves creating
         accessible, user-focused solutions that truly shine{" "}
         <span className="text-opacity-100 text-white">✨</span> but who also takes cybersecurity seriously. 

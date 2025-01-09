@@ -11,7 +11,7 @@ export default function ContactSection() {
         Get in Touch
         </h1>
         <h1 className="md:text-4xl text-xl font-semibold">Share your thoughts !</h1>
-        <p className="text-sky-200 text-opacity-75 w-full max-w-xl text-center">
+        <p className="text-cyan-100 text-opacity-80 w-full max-w-xl text-center">
           I&apos;m always up for new adventures, and my inbox is wide open!
           Got a question or just wanna say hi? Drop me a
           message, and I&apos;ll be sure to get back to you! 🚀
