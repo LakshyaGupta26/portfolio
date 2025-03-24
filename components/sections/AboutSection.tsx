@@ -9,7 +9,7 @@ export default function AboutSection() {
       <div className="w-full flex flex-col items-start gap-4 text-cyan-100 md:text-base text-sm text-opacity-80 ">
         <p className="w-full text-justify ">
         I am a highly motivated and passionated Computer Science and Engineering student at Amity University, 
-        with a strong foundation in software development, artificial intelligence, and data analytics. 
+        with a strong foundation in software development, artificial intelligence, and cybersecurity. 
         I have hands-on experience on developing an AI based adaptive learning platform, web development 
         and managing diverse projects and teams.
         </p>
@@ -28,7 +28,7 @@ export default function AboutSection() {
         problem-solving.
         </p>
         <p className="w-full text-justify">
-          Usally a workaholic but, my hobbies include playing basketball, rewinding to music and everything in-between to promote
+          Usually a workaholic but, my hobbies include playing basketball, rewinding to music and everything in-between to promote
           mental well being. I&apos;m always up for a good conversation and love connecting with
           people from all walks of life.
         </p>
